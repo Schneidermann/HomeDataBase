@@ -152,6 +152,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Contexto\MeuContexto.cs" />
+    <Compile Include="Models\Dados.cs" />
+    <Compile Include="Models\TipoDados.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
