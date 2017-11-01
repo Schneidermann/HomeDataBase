@@ -9,5 +9,7 @@ namespace BackEndHome.Models.Contexto
 		{
 
 		}
+
+		public System.Data.Entity.DbSet<BackEndHome.Models.Dados> Dados { get; set; }
 	}
 }
